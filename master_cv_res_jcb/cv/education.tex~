@@ -1,0 +1,79 @@
+%\newpage
+\cvsection{\faGraduationCap\space Education}
+
+\begin{cventries}
+\cventry
+{Doctor of Philosophy (PhD) Candidate -- Microbiology \& Cell Science}
+{University of Florida}
+{Gainesville, FL}
+{08/2022--Expected 2026}
+{}
+\vspace{-0.4cm}
+\cventry
+{Master of Science (MSc) -- Microbiology \& Cell Science}
+{}
+{}
+{05/2024}
+{
+\begin{cvitems}
+\item {\textbf{Advisors:} Marc G. Chevrette, PhD, Raquel Dias, PhD}
+\item {\textbf{Thesis:} Targeted Genome Mining for Natural Product-Based Drug Discovery.}
+%\item {\textbf{GPA:} 4.0}
+\item {\textbf{Committee Members:} Dr. Valérie de Crécy-Lagard, Dr. Yousong Ding, and Dr. Daniel Czyz}
+\end{cvitems}
+}
+
+\cventry
+{Certificate -- NIAMRRE One Health Antimicrobial Resistance (AMR) Interprofessional Education Program}
+{NIAMRRE -- University of Florida}
+{Gainesville, FL}
+{12/2024}
+{}
+\vspace{-4mm}
+
+\cventry
+{Certificate -- Microbial Specialised Metabolites: From Genomes to Biological Functions}
+{John Innes Centre (JIC) – Rudjer Bošković Institute}
+{Dubrovnik, Croatia}
+{09/2024}
+{}
+\vspace{-4mm}
+
+\cventry
+{Bachelor of Science -- Biology, Computational Biology}
+{Industrial University of Santander -- UIS}
+{Bucaramanga, Colombia}
+{12/2021} 
+{
+\begin{cvitems}
+\item {\textbf{Advisor:} Jorge L. Fuentes, PhD}
+%\item {\textbf{Research Focus:} Bacterial Pigments as Sources of Sunscreen Ingredients.}
+\item {\textbf{Thesis:} Prodigiosin Production and Photoprotective/Antigenotoxic Properties in \textit{Serratia marcescens} Indigenous Strains from Eastern Cordillera of Colombia.}
+\end{cvitems}
+}
+\vspace{-0.2 mm}
+    
+%\cventry
+%{Bachelor of Science (BSc) -- Biology, Transferred to UIS}
+%{Pedagogical and Technological University of Colombia}
+%{Tunja, Colombia}
+%{05/2017}
+%{
+%\begin{cvitems}
+%\item {\textbf{Advisor:} Leopoldo Arrieta, PhD}
+%\item {\textbf{Research Focus:} Agricultural Applications of Toxins from Soil-Isolated \textit{Bacillus thuringiensis} Strains.}
+%\item {\textbf{Thesis:} Transposon-Directed Insertion Site Sequencing for Determination of Fitness Factors in Pulmonary Infection by \textit{A. baumannii}.}
+%\item {\textbf{GPA:} 4.0}
+%\end{cvitems}
+%}
+
+%\cventry
+%%{Bachelor of Science (BSc) -- Molecular Biology \& Bioinformatics}
+%{Rensselaer Polytechnic Institute}
+%{Troy, NY}
+%{12/2010}
+%{}
+
+\end{cventries}
+
+\vspace{-3mm}
