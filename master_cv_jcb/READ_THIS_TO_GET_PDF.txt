@@ -1,3 +1,0 @@
-## RUN THIS TO GET THE PDF FILE
-xelatex Cediel.tex
-
